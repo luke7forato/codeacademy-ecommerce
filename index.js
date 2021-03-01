@@ -10,7 +10,7 @@ var swaggerDefinition = {
       version: '1.0.0',
       description: 'A simplified ecommerce API',
     },
-    host: 'localhost:3000',
+    host: 'https://codeacademy-ecommerce.herokuapp.com/',
     basePath: '/',
   };
   
@@ -51,6 +51,6 @@ app.use('/api/cart', cartRoute);
 app.use('/api/orders', ordersRoute);
 
 //SERVER LISTENER
-app.listen(3000, () => {
+app.listen(process.env.PORT || 3000, () => {
     console.log('SERVER UP AND RUNNING');
 })

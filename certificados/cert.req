@@ -1,0 +1,65 @@
+Certificate Request:
+    Data:
+        Version: 1 (0x0)
+        Subject: C = BR, ST = Sao Paulo, L = Socorro, O = Nerd Wolf, OU = Nerd Wolf, CN = Lucas, emailAddress = lucas7forato@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:aa:46:9d:82:2b:cb:33:a3:76:ef:bb:74:9d:0d:
+                    e3:c9:57:58:fe:4d:d4:a2:bc:9a:c9:b1:0b:8c:a3:
+                    66:e4:85:05:2f:99:c4:cc:52:59:58:19:da:4f:3a:
+                    37:42:51:78:89:55:63:06:54:91:18:ea:7c:fd:5b:
+                    5f:b7:63:1d:68:e6:c5:ab:b8:86:4a:74:32:59:ab:
+                    0f:29:31:a6:06:52:1c:26:36:29:a9:40:7c:97:d8:
+                    72:4d:3c:9d:c2:0f:4a:13:fa:ca:69:7e:d8:08:27:
+                    f6:db:bc:20:78:70:79:59:d7:fb:d8:f2:75:e4:bf:
+                    69:aa:15:17:fc:fa:7f:52:4f:9d:3d:16:3a:34:af:
+                    2e:f8:57:c0:52:9a:3c:3d:98:aa:90:ab:f8:17:6a:
+                    13:4d:cd:c1:16:c5:ce:2c:35:5f:5d:da:5a:da:05:
+                    d0:8b:70:03:09:8f:39:17:09:6a:9c:a6:eb:11:cb:
+                    4f:b8:9b:72:29:72:ac:6d:fa:58:44:28:42:bd:a2:
+                    d4:eb:8e:12:fc:f7:47:88:af:7b:45:59:61:95:ac:
+                    36:ef:41:c9:2e:8a:9c:be:ee:ba:7a:ce:8f:9f:5b:
+                    b3:3b:b4:74:36:9a:81:a2:22:35:df:65:8b:2f:15:
+                    ca:8a:75:e3:27:fa:c9:be:e4:dd:a9:ff:1a:be:2e:
+                    70:07
+                Exponent: 65537 (0x10001)
+        Attributes:
+            challengePassword        :Lucasforato12
+            unstructuredName         :Nerd Wolf
+    Signature Algorithm: sha256WithRSAEncryption
+         8b:a0:22:b9:6a:5b:0b:69:5f:c2:2b:23:5e:5f:26:1c:ac:79:
+         66:9e:72:cf:b2:17:8f:55:60:6b:38:2c:fc:74:f2:32:1c:c2:
+         7a:ef:91:57:73:16:af:8f:a3:a7:67:6d:c8:35:c4:93:16:a4:
+         e9:a5:85:95:73:3c:f3:30:0a:66:32:cd:2a:ff:9e:c5:83:0d:
+         fc:13:82:03:a9:88:86:87:0e:96:bf:04:08:b5:f1:fb:f5:0c:
+         33:80:6e:ed:1f:f8:96:18:0d:1b:bf:82:d2:02:6a:4f:4d:6a:
+         c2:14:62:af:8f:63:03:db:ad:a0:fe:40:37:51:61:da:59:56:
+         6f:e7:18:c4:de:76:b4:dd:59:34:84:ad:cf:84:fc:ec:27:67:
+         13:33:95:5b:7b:70:d3:d2:5c:07:42:e2:45:d1:62:e4:3f:bd:
+         f3:2a:1f:2e:a0:8b:2a:b5:d3:0e:5d:40:88:af:99:32:99:2d:
+         aa:17:b8:ac:27:e4:47:27:1d:b7:61:1c:35:23:1b:0f:06:cb:
+         54:18:93:80:14:5c:67:74:d0:04:78:31:20:1c:ed:3a:e1:23:
+         74:51:49:f9:0c:9c:1d:59:45:c1:8e:3d:75:96:a7:bf:8e:c4:
+         72:c2:a5:10:ee:48:e6:20:c5:ae:4d:bf:46:b1:a9:c0:ca:12:
+         e3:4a:df:83
+-----BEGIN CERTIFICATE REQUEST-----
+MIIDEDCCAfgCAQAwgZIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8x
+EDAOBgNVBAcMB1NvY29ycm8xEjAQBgNVBAoMCU5lcmQgV29sZjESMBAGA1UECwwJ
+TmVyZCBXb2xmMQ4wDAYDVQQDDAVMdWNhczElMCMGCSqGSIb3DQEJARYWbHVjYXM3
+Zm9yYXRvQGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AKpGnYIryzOjdu+7dJ0N48lXWP5N1KK8msmxC4yjZuSFBS+ZxMxSWVgZ2k86N0JR
+eIlVYwZUkRjqfP1bX7djHWjmxau4hkp0MlmrDykxpgZSHCY2KalAfJfYck08ncIP
+ShP6yml+2Agn9tu8IHhweVnX+9jydeS/aaoVF/z6f1JPnT0WOjSvLvhXwFKaPD2Y
+qpCr+BdqE03NwRbFziw1X13aWtoF0ItwAwmPORcJapym6xHLT7ibcilyrG36WEQo
+Qr2i1OuOEvz3R4ive0VZYZWsNu9ByS6KnL7uunrOj59bszu0dDaagaIiNd9liy8V
+yop14yf6yb7k3an/Gr4ucAcCAwEAAaA4MBgGCSqGSIb3DQEJAjELDAlOZXJkIFdv
+bGYwHAYJKoZIhvcNAQkHMQ8MDUx1Y2FzZm9yYXRvMTIwDQYJKoZIhvcNAQELBQAD
+ggEBAIugIrlqWwtpX8IrI15fJhyseWaecs+yF49VYGs4LPx08jIcwnrvkVdzFq+P
+o6dnbcg1xJMWpOmlhZVzPPMwCmYyzSr/nsWDDfwTggOpiIaHDpa/BAi18fv1DDOA
+bu0f+JYYDRu/gtICak9NasIUYq+PYwPbraD+QDdRYdpZVm/nGMTedrTdWTSErc+E
+/OwnZxMzlVt7cNPSXAdC4kXRYuQ/vfMqHy6giyq10w5dQIivmTKZLaoXuKwn5Ecn
+HbdhHDUjGw8Gy1QYk4AUXGd00AR4MSAc7TrhI3RRSfkMnB1ZRcGOPXWWp7+OxHLC
+pRDuSOYgxa5Nv0axqcDKEuNK34M=
+-----END CERTIFICATE REQUEST-----
